@@ -1,0 +1,12 @@
+{
+  "steamcmd_dir": "D:\\steamcmd\\steamcmd",
+  "show_steamcmd_console": false,
+  "show_extract_console": false,
+  "default_appid": 1091500,
+  "login_timeout_seconds": 60,
+  "extract_max_attempts": 1,
+  "extract_retry_interval": 8.0,
+  "remember_credentials": true,
+  "last_username": "npxobf0810",
+  "last_password": "LXyhdhk52L"
+}

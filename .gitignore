@@ -1,0 +1,16 @@
+/target
+./bin/*
+*.iml
+misc.xml
+.classpath
+.project
+.settings
+.idea
+!/Dockerfile
+log.path_IS_UNDEFINED
+/src/main/resources/logback.xml
+.vscode
+# 忽略特定路径
+/build/
+/dist/
+/.venv
